@@ -1,0 +1,2 @@
+Sony_Debug_Assist_board
+Target_Switch_Control_From_Parallel_Port

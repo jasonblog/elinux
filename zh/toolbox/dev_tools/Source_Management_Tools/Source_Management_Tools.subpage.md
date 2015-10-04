@@ -1,0 +1,8 @@
+BitKeeper
+Diff_And_Patch_Tricks
+Git
+PgpKey
+Quilt
+Splash
+Subversion
+Tim%27s_patch_management_tools
