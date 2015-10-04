@@ -1,0 +1,3 @@
+GDB
+Kernel_Debugging_Tips
+Qemu

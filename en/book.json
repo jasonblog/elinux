@@ -1,0 +1,18 @@
+{
+    "author": "http://www.celinuxforum.org/",
+    "description": "The GitBook Version of elinux.org",
+    "generator": "site",
+    "plugins" : [ "disqus", "google_code_prettify", "collapsible-menu", "maxiang", "livereload"],
+    "pluginsConfig": {
+        "disqus": {
+            "shortName": "tinylab"
+        }
+    },
+    "links": {
+        "sidebar": {
+            "CE Linux Forum": "http://www.celinuxforum.org/",
+            "Embedded Linux Wiki": "http://elinux.org"
+        }
+    },
+    "title": "Embedded Linux Wiki"
+}
